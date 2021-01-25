@@ -14,3 +14,6 @@ Deployed Website- https://saloni-15.github.io/dice-roll/
 ## Images from Website
 ![image-1](https://github.com/saloni-15/dice-roll/blob/main/images/dgimg1.PNG)
 ![image-2](https://github.com/saloni-15/dice-roll/blob/main/images/dgimg2.PNG)
+
+## Acknowledgement
+[The Complete 2020 Web Development Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
