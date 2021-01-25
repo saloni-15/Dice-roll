@@ -7,5 +7,5 @@ A two player dice rolling game that generates two numbers for two dice randomly 
 Deployed Website- https://saloni-15.github.io/dice-roll/
 
 # Images from Website
-![image-1](images/dgimg1.png)
-![image-2](images/dgimg2.png)
+![image-1](dgimg1.png)
+![image-2](dgimg2.png)
