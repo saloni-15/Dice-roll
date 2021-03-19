@@ -4,7 +4,7 @@ A two player dice rolling game that generates two numbers for two dice randomly 
 **Challenge from the course "The Complete 2020 Web Development Bootcamp by Dr. Angela Yu".**
 
 ## Deployment
-Deployed Website- https://saloni-15.github.io/dice-roll/
+Deployed Website- https://saloni-15.github.io/Dice-roll/
 
 ## Built using
 * HTML
